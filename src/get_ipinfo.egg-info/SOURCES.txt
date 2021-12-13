@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-src/get_ipinfo.py
-src/get_ipinfo.egg-info/PKG-INFO
-src/get_ipinfo.egg-info/SOURCES.txt
-src/get_ipinfo.egg-info/dependency_links.txt
-src/get_ipinfo.egg-info/top_level.txt
