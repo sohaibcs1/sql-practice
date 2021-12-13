@@ -30,7 +30,7 @@ def main():
 
 	if choice == "Home":
 		st.subheader("Home-Page")
-		st.text("Credit: Muhammad Sohaib")
+		st.text("Group Members: Muhammad Sohaib, Abid Hussain, 少年唯有一JIAN, 飞呀, 結城 ")
 		# Columns/Layout
 		col1,col2 = st.beta_columns(2)
 
@@ -65,7 +65,7 @@ def main():
 		st.subheader("About")
 
 		st.text("Built with Streamlit & Pandas")
-		st.text("Credit: Muhammad Sohaib")
+		st.text("Group Members: Muhammad Sohaib, Abid Hussain, 少年唯有一JIAN, 飞呀, 結城")
 
 
 
