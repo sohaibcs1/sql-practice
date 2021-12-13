@@ -1,0 +1,15 @@
+package name and folder name must same
+
+open cmd that project location and run commands
+
+python setup.py bdist_wheel
+pip install -e .                   (This will creat binary package in local machine you can test on python terminal is your package run locally)
+
+python setup.py sdist
+python setup.py bdist_wheel sdist
+pip install twine
+twine upload dist/*
+
+
+
+
