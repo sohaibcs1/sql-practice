@@ -30,7 +30,7 @@ def main():
 
 	if choice == "Home":
 		st.subheader("Home-Page")
-		st.text("Group 13: Muhammad Sohaib, 結城, 飞呀, Abid Hussain, 少年唯有一JIAN ")
+		st.text("Group 13: Muhammad Sohaib, Abid Hussain, 結城, 飞呀, 少年唯有一JIAN ")
 		# Columns/Layout
 		col1,col2 = st.beta_columns(2)
 
@@ -65,7 +65,7 @@ def main():
 		st.subheader("About")
 
 		st.text("Built with Streamlit & Pandas")
-		st.text("Group 13: Muhammad Sohaib, 結城, 飞呀, Abid Hussain, 少年唯有一JIAN")
+		st.text("Group 13: Muhammad Sohaib, Abid Hussain, 結城, 飞呀, 少年唯有一JIAN")
 
 
 
